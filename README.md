@@ -1,3 +1,29 @@
+##  MISSION: réaliser une page de blockexplorer.
+Voici un exemple : https://www.blockchain.com/fr/explorer
+ 
+Tu te baseras sur l'api décrite ici : https://gitlab.com/neurochaintech/core/blob/470be05c8090996c941f964527c7ca7cba950b1e/Api.md
+ 
+Ton endpoint sera http://15.188.3.166:8080/
+ 
+Ta page devra afficher les informations des 10 derniers blocks et se mettre à jour toutes les 15secondes.
+ 
+Technos à utiliser :
+* reactjs
+* gatsbyjs
+Tu peux ajouter d'autres que celles-ci.
+ 
+Le tout doit être rendu sur un repository gitlab ou github.
+
+****************************************************************
+## Environemment technique:
+* react pour le front
+* materialize pour le css
+* axios pour le fetch
+* git pour le versionning
+* react github-page pour le visuel
+
+****************************************************************
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
