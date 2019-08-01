@@ -20,7 +20,6 @@ Le tout doit être rendu sur un repository gitlab ou github.
 * materialize pour le css
 * axios pour le fetch
 * git pour le versionning
-* react github-page pour le visuel
 
 ****************************************************************
 
