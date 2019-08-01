@@ -10,6 +10,7 @@ Ta page devra afficher les informations des 10 derniers blocks et se mettre à j
 Technos à utiliser :
 * reactjs
 * gatsbyjs
+
 Tu peux ajouter d'autres que celles-ci.
  
 Le tout doit être rendu sur un repository gitlab ou github.
